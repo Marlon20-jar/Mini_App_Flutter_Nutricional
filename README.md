@@ -43,15 +43,15 @@ La aplicación consta de tres secciones principales:
 
 ## 📱 Pantalla principal de la app
 
-![Pantalla principal](/flutter_application_7/assets/img45.jpg)
+![Pantalla principal](flutter_application_7/assets/img45.jpg)
 
 ### 📏 Mis Medidas
 
-![Mis Medidas](assets/img48.jpg)
+![Mis Medidas](flutter_application_7/assets/img48.jpg)
 
 ### 🧮 Cálculos Nutricionales
 
-![Cálculos](assets/img51.jpg)
+![Cálculos](flutter_application_7/assets/img51.jpg)
 
 ---
 ## ✅ Requisitos
