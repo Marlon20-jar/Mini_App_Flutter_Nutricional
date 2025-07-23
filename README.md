@@ -43,7 +43,7 @@ La aplicación consta de tres secciones principales:
 
 ## 📱 Pantalla principal de la app
 
-![Pantalla principal](/assets/img45.jpg)
+![Pantalla principal](/flutter_application_7/assets/img45.jpg)
 
 ### 📏 Mis Medidas
 
